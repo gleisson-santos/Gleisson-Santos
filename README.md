@@ -1,5 +1,4 @@
-## Hiiiiii, 🐱‍🚀 eu sou Gleisson Santos, amante e estudanto do Python....!
-
+## Hiiiiii, 🐱‍🚀 eu sou Gleisson Santos, amante do Python!!🐱‍👤
 
 <div>
   <a href="https://github.com/gleisson-santos">
