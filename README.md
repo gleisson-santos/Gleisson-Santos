@@ -1,4 +1,4 @@
-## Hiiiiii, 🐱‍🚀 eu sou Gleisson Santos, amante do Python!!🐱‍👤
+## Hiiiiii, 🐱‍🚀 Eu sou Gleisson Santos!!🐱‍👤
 Sou apaixonado por tecnologia! Tive meu primeiro contato com a informática aos 15 anos de idade e desde então venho descobrindo um pouco mais sobre 
 essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida das pessoas, acho que conhecimento é algo que todos deveriam ter acesso.
 
