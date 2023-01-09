@@ -62,7 +62,7 @@ Vamos se conhecer, estou sempre aberto para aprender coisas novas e discutir ide
 
 <div> 
   
-![Snake animation](https://github.com/gleisson-santos/gleisson-santos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gleisson-santos/Gleisson-santos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
