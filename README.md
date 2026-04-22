@@ -8,7 +8,7 @@ Desde meus primeiros passos na informática aos 15 anos, tenho explorado profund
 
 ### 🛠️ Arsenal Tecnológico
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
