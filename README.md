@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/962f602d-f67a-4219-984d-02cf61c2b920" />## ✨ Olá, eu sou Gleisson Santos! 🐱‍🚀
+## ✨ Olá, eu sou Gleisson Santos! 🐱‍🚀
 
 Sou um apaixonado por tecnologia dedicado a entregar soluções que impactam positivamente a vida das pessoas. 🚀
 
